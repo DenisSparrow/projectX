@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+span {
+    font-weight: 900;
+    color: green;
+}
